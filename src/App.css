@@ -1,0 +1,25 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.character-dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.character-portrait {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+img {
+  width: 120px;
+  height: 120px;
+}
